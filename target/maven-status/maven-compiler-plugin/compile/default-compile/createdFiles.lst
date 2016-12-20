@@ -1,4 +1,4 @@
 com/projectx/sdk/api/BaseResponse.class
-com/projetx/sdk/user/User.class
 com/projectx/sdk/api/ApiResponse.class
-com/projetx/sdk/user/impl/BasicUser.class
+com/projectx/sdk/user/impl/BasicUser.class
+com/projectx/sdk/user/User.class

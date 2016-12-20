@@ -10,7 +10,7 @@ import java.util.Date;
  * @author Assaf Moldavsky
  */
 
-public class BasicUser implements com.projetx.sdk.user.User,Serializable {
+public class BasicUser implements com.projectx.sdk.user.User,Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
