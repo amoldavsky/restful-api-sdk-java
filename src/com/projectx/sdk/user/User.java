@@ -1,4 +1,4 @@
-package com.projetx.sdk.user;
+package com.projectx.sdk.user;
 
 import java.util.Date;
 

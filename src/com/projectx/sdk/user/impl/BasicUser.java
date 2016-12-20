@@ -1,4 +1,4 @@
-package com.projetx.sdk.user.impl;
+package com.projectx.sdk.user.impl;
 
 
 import java.io.Serializable;
