@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8f3a5f-5298-4293-8229-ce4f54549195" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sdk.iml" />
-    </list>
+    <list default="true" id="db8f3a5f-5298-4293-8229-ce4f54549195" name="Default" comment="" />
     <ignored path="restful-api-sdk-java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -65,7 +62,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3905" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
@@ -234,15 +231,15 @@
       <option name="presentableId" value="Default" />
       <updated>1482246488701</updated>
       <workItem from="1482246490472" duration="87000" />
-      <workItem from="1482246585982" duration="398000" />
+      <workItem from="1482246585982" duration="1616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485000" />
+    <option name="totallyTimeSpent" value="1703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3905" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
