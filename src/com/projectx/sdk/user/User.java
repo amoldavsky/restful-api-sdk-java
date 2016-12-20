@@ -4,22 +4,24 @@ import java.util.Date;
 
 /**
  * A User POJO interface
- * 
+ *
  * @author Assaf Moldavsky
  */
 public interface User {
 
-	public Integer getId();
-	public void setId(Integer id);
-	public String getFirstName();
-	public void setFirstName(String firstName);
-	public String getLastName();
-	public void setLastName(String lastName);
-	public String getEmail();
-	public void setEmail(String email);
-	public String getPassword();
-	public void setPassword(String password);
-	public Date getDateCreated();
-	public void setDateCreated(Date dateCreated);
-	
+	Integer getId();
+	void setId(Integer id);
+	String getProfileImageUrl();
+	void setProfileImageUrl( String url );
+	void setUsername( String username );
+	String getUsername();
+	String getFirstName();
+	void setFirstName(String firstName);
+	String getLastName();
+	void setLastName(String lastName);
+	String getEmail();
+	void setEmail(String email);
+	Date getDateCreated();
+	void setDateCreated(Date dateCreated);
+
 }
